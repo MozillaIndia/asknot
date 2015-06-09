@@ -1,6 +1,8 @@
-Ask not what Mozilla India can do for you but what you can do for Mozilla India?
+Ask not what Mozilla India can do for you but what you can do for Mozilla India
 
 This project is a place for contributors to start looking for new projects to work on. This will guide you in the right direction depending on your prefered development language.
+
+### Deployed at [MozillaIndia-AskNot](http://devs.mozillaindia.org/asknot/)
 
 ## Installing Locally
 
